@@ -1,0 +1,738 @@
+index,site,contact,expires,hiring,policy,acknowledgements
+0,https://google.com,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+1,https://facebook.com,https://www.facebook.com/whitehat/report/,"tue, 20 sep 2022 21:39:32 -0700",https://www.facebook.com/careers/teams/security/,https://www.facebook.com/whitehat/info/ https://www.facebook.com/security/advisories/vulnerability-disclosure-policy,
+2,https://youtube.com,https://g.co/vulnz mailto:security@google.com,,,https://g.co/vrp,https://bughunters.google.com/
+5,https://linkedin.com,https://hackerone.com/linkedin https://www.linkedin.com/help/linkedin/answer/62924,,,https://hackerone.com/linkedin?view_policy=true,
+9,https://wordpress.org,https://hackerone.com/wordpress,2024-12-31t15:00:00.000z,,https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/,
+15,https://vimeo.com,https://hackerone.com/vimeo/reports/new/,,https://vimeo.com/jobs#engineering,https://hackerone.com/vimeo/,
+16,https://github.com,https://hackerone.com/github,2022-09-21t04:46:17z,https://github.com/about/careers,https://bounty.github.com,
+20,https://bit.ly,security@bitly.com,,,,
+21,https://adobe.com,https://hackerone.com/adobe mailto:psirt@adobe.com,2023-07-27t01:00:00.000z,https://www.adobe.com/careers.html,https://helpx.adobe.com/security.html/security/policy.ug.html,
+23,https://wordpress.com,https://hackerone.com/automattic/reports/new mailto:security@automattic.com,,,https://hackerone.com/automattic,https://hackerone.com/automattic/thanks
+25,https://amazon.com,https://hackerone.com/amazonvrp/reports/new,,https://www.amazon.jobs/en/teams/infosec,https://hackerone.com/amazonvrp,
+32,https://yahoo.com,mailto:security@yahooinc.com https://hackerone.com/yahoo,,https://www.yahooinc.com/careers/search.html?q=paranoids,https://hackerone.com/yahoo?view_policy=true,https://hackerone.com/yahoo/thanks
+33,https://whatsapp.com,https://www.facebook.com/whitehat/report/,,https://www.facebook.com/careers/areas-of-work/security/,https://www.facebook.com/whitehat/info/,
+34,https://tumblr.com,https://hackerone.com/automattic/reports/new,,https://www.tumblr.com/jobs,https://hackerone.com/automattic,
+36,https://flickr.com,https://hackerone.com/flickr,,,,
+39,https://reddit.com,whitehats@reddit.com,"wed, 13 oct 2022 12:00 -0500",https://boards.greenhouse.io/reddit,https://hackerone.com/reddit?type=team,
+49,https://w3.org,mailto:openbugbounty@w3.org,,,,
+57,https://spotify.com,mailto:security@spotify.com,,https://www.spotifyjobs.com/,https://www.spotify.com/bounty,
+60,https://theguardian.com,mailto:appsec@theguardian.com,,https://workforus.theguardian.com/index.php/search-jobs-and-apply/?search_paths%5b%5d=&query=information+security&submit=search+jobs,,
+63,https://creativecommons.org,https://openbugbounty.org/bugbounty/ccsecrep/,,,,
+67,https://dropbox.com,https://hackerone.com/dropbox/,,https://www.dropbox.com/jobs/search?q=security,https://hackerone.com/dropbox/,https://hackerone.com/dropbox/thanks
+72,https://bbc.co.uk,mailto:security@bbc.co.uk,,https://careerssearch.bbc.co.uk/jobs/search,https://www.bbc.com/backstage/security-disclosure-policy/,
+73,https://paypal.com,https://hackerone.com/paypal,,https://jobsearch.paypal-corp.com/search?keywords=cyber,https://hackerone.com/paypal?view_policy=true,
+75,https://issuu.com,mailto:security@issuu.com,,,https://issuu.com/responsible-disclosure,https://issuu.com/responsible-disclosure#hall-of-fame
+76,https://cloudflare.com,https://hackerone.com/cloudflare mailto:security@cloudflare.com https://www.cloudflare.com/abuse/,2023-03-22t15:03:49.827z,https://www.cloudflare.com/careers/jobs/,https://www.cloudflare.com/disclosure,
+78,https://l.facebook.com,https://www.facebook.com/whitehat/report/,"tue, 20 sep 2022 21:48:02 -0700",https://www.facebook.com/careers/teams/security/,https://www.facebook.com/whitehat/info/ https://www.facebook.com/security/advisories/vulnerability-disclosure-policy,
+80,https://bbc.com,mailto:security@bbc.co.uk,,https://careerssearch.bbc.co.uk/jobs/search,https://www.bbc.com/backstage/security-disclosure-policy/,
+87,https://opera.com,https://security.opera.com,,,https://security.opera.com/policy,
+102,https://nginx.com,https://support.f5.com/csp/article/k4602#proc1 ,,https://www.f5.com/company/careers,https://support.f5.com/csp/article/k4602 ,
+114,https://ibm.com,https://www.ibm.com/trust/security-psirt https://hackerone.com/ibm?type=team mailto:psirt@us.ibm.com,2022-09-22t12:00+0000,,,https://www.ibm.com/blogs/psirt/ibm-acknowledgement/
+118,https://wp.com,https://hackerone.com/automattic/reports/new mailto:security@automattic.com,,,https://hackerone.com/automattic,https://hackerone.com/automattic/thanks
+122,https://wix.com,mailto:security-report@wix.com,,,,
+128,https://www.gov.uk,https://hackerone.com/44c348eb-e030-4273-b445-d4a2f6f83ba8/embedded_submissions/new https://www.gov.uk/contact/govuk,2022-11-16 13:12:30+00:00,https://www.civilservicejobs.service.gov.uk/,https://www.gov.uk/help/report-vulnerability,
+141,https://aol.com,mailto:security@yahooinc.com https://hackerone.com/yahoo,,https://www.yahooinc.com/careers/search.html?q=paranoids,https://hackerone.com/yahoo?view_policy=true,https://hackerone.com/yahoo/thanks
+144,https://amzn.to,security@bitly.com,,,,
+152,https://unsplash.com,support@unsplash.com,,,,
+160,https://techcrunch.com,mailto:security@yahooinc.com https://hackerone.com/yahoo,,https://www.yahooinc.com/careers/search.html?q=paranoids,https://hackerone.com/yahoo?view_policy=true,https://hackerone.com/yahoo/thanks
+161,https://shopify.com,https://www.shopify.com/security-response mailto:security@shopify.com,,https://www.shopify.com/careers,https://hackerone.com/shopify,
+164,https://ft.com,mailto:cyber.security@ft.com,2022-11-15t12:00:00.000z,https://ft.com/careers,,
+173,https://themeforest.net,https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490,,,https://webuild.envato.com/helpful-hacker/,
+178,https://mail.google.com,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+179,https://free.fr,mailto:tech-security@corp.free.fr https://subscribe.free.fr/abuse/,2023-09-01t00:00:00z,,,
+182,https://dailymotion.com,mailto:security@dailymotion.com,,,https://faq.dailymotion.com/hc/en-us/p/vulnerability-disclosure,
+189,https://bitly.com,security@bitly.com,,,,
+190,https://mailchimp.com,https://mailchimp.com/about/security/#responsible_disclosure,,,,
+203,https://google.de,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+213,https://fb.com,https://www.facebook.com/whitehat/report/,"tue, 20 sep 2022 22:05:31 -0700",https://www.facebook.com/careers/teams/security/,https://www.facebook.com/whitehat/info/ https://www.facebook.com/security/advisories/vulnerability-disclosure-policy,
+215,https://line.me,https://bugbounty.linecorp.com/en/apply/,,https://linecorp.com/ja/career/position/498,https://bugbounty.linecorp.com/en/terms_of_use/,https://bugbounty.linecorp.com/en/halloffame/
+217,https://hubspot.com,mailto:security-notifications@hubspot.com ,2023-09-28t16:00:00.000z,https://www.hubspot.com/careers/jobs?q=security,https://bugcrowd.com/hubspot,
+218,https://google.co.uk,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+243,https://marriott.com,mailto:security@marriott.com,,,https://hackerone.com/marriott,https://hackerone.com/marriott/thanks
+244,https://investopedia.com,mailto:security@dotdash.com,,,,
+268,https://jimdo.com,mailto:security@jimdo.com,2022-09-26t22:00:00.000z,https://careers.jimdo.com/,,
+303,https://intel.com,mailto:secure@intel.com mailto:external.security.research@intel.com,2022-10-11t19:30:00.000z,https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html,https://www.intel.com/content/www/us/en/security-center/vulnerability-handling-guidelines.html,
+320,https://jotform.com,https://www.jotform.com/bug-bounty/,2023-01-31t21:00:00.000z,https://www.jotform.com/jobs/,https://www.jotform.com/bug-bounty/#rule-and-guidelines,
+322,https://wpengine.com,https://wpengine.com/security,,,,
+347,https://engadget.com,mailto:security@yahooinc.com https://hackerone.com/yahoo,,https://www.yahooinc.com/careers/search.html?q=paranoids,https://hackerone.com/yahoo?view_policy=true,https://hackerone.com/yahoo/thanks
+355,https://guardian.co.uk,mailto:appsec@theguardian.com,,https://workforus.theguardian.com/index.php/search-jobs-and-apply/?search_paths%5b%5d=&query=information+security&submit=search+jobs,,
+358,https://canva.com,https://bugcrowd.com/canva https://www.canva.com/help/describe-your-issue,,https://www.canva.com/careers/jobs/?specialty=security,https://bugcrowd.com/canva,
+372,https://xing.com,mailto:security-reports@new-work.se,,https://www.xing.com/jobs/search?keywords=%22new%20work%20se%22%20security,https://www.xing.com/rfc-2350.txt,
+383,https://trustpilot.com,https://hackerone.com/trustpilot,,,,
+385,https://patreon.com,mailto:security@patreon.com,,https://www.patreon.com/careers,,
+409,https://doubleclick.net,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+417,https://walmart.com,https://corporate.walmart.com/article/responsible-disclosure-policy,,https://careers.walmart.com,https://corporate.walmart.com/privacy-security,
+424,https://google.ca,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+428,https://trello.com,https://www.atlassian.com/trust/security/report-a-vulnerability mailto:security@atlassian.com,2022-12-06t00:00:00.000z,https://www.atlassian.com/company/careers/all-jobs?team=security,https://www.atlassian.com/trust/security/report-a-vulnerability,
+435,https://stripe.com,https://hackerone.com/stripe,2025-12-31t23:59:00.000z,https://stripe.com/jobs,https://hackerone.com/stripe?type=team&view_policy=true,
+441,https://form.jotform.com,https://www.jotform.com/bug-bounty/,2023-01-31t21:00:00.000z,https://www.jotform.com/jobs/,https://www.jotform.com/bug-bounty/#rule-and-guidelines,
+455,https://google.co.jp,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+494,https://google.es,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+497,https://slack.com,https://hackerone.com/slack/,,,https://hackerone.com/slack/,https://hackerone.com/slack/thanks
+510,https://google.it,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+511,https://google.fr,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+514,https://www.nhs.uk,https://www.nhs.uk/contact-us/responsible-vulnerability-disclosure/,,,,
+525,https://amazon.co.jp,https://hackerone.com/amazonvrp/reports/new,,https://www.amazon.jobs/en/teams/infosec,https://hackerone.com/amazonvrp,
+531,https://timeanddate.com,https://hackerone.com/timeanddate mailto:webmaster@timeanddate.com,2025-12-31t23:59:59z,,https://hackerone.com/timeanddate,
+532,https://techtarget.com,https://www.techtarget.com/contact-us/ mailto: security@techtarget.com,,,https://www.techtarget.com/privacy-policy/,
+542,https://unc.edu,mailto:mtriplett@unc.edu,,,,
+545,https://moodle.org,https://moodle.org/security/report/,2022-12-05t01:00:00.000z,,https://docs.moodle.org/dev/moodle_security_procedures,
+551,https://admin.ch,mailto:security@admin.ch,,https://jobs.admin.ch,,
+554,https://thoughtco.com,mailto:security@dotdash.com,,,,
+560,https://blogspot.co.uk,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+566,https://parallels.com,security@parallels.com,,,,
+568,https://drupal.org,"mailto:security@drupal.org or click on the ""report security vulnerability"" on a project page",,jobs.drupal.org,https://www.drupal.org/drupal-security-team,
+572,https://iana.org,https://hackerone.com/icann mailto:vulnerability@icann.org,,,https://www.icann.org/vulnerabilities,
+575,https://siemens.com,mailto:productcert@siemens.com mailto:cert@siemens.com,2122-05-09t18:37:07z,,https://new.siemens.com/global/en/products/services/cert/vulnerability-process.html,
+584,https://vic.gov.au,mailto:sdp.security@dpc.vic.gov.au,,,,
+593,https://icann.org,https://hackerone.com/icann mailto:vulnerability@icann.org,,,https://www.icann.org/vulnerabilities,
+599,https://atlassian.com,https://www.atlassian.com/trust/security/report-a-vulnerability mailto:security@atlassian.com,2022-12-06t00:00:00.000z,https://www.atlassian.com/company/careers/all-jobs?team=security,https://www.atlassian.com/trust/security/report-a-vulnerability,
+610,https://joomla.org,mailto:security@joomla.org,,https://volunteers.joomla.org/teams/security-strike-team,https://developer.joomla.org/security.html,
+644,https://qualtrics.com,https://www.qualtrics.com/platform/security/vulnerability-disclosure/,2025-01-01t00:00:00z,https://www.qualtrics.com/careers/,https://www.qualtrics.com/platform/security/vulnerability-disclosure/,
+647,https://ubc.ca,mailto:security@ubc.ca,2022-04-01t19:00:00.000z,,,
+653,https://kde.org,mailto:security@kde.org https://kde.org/info/security/,2022-10-31t12:12:00.000z,,https://kde.org/info/security/policy.php,
+661,https://automattic.com,https://hackerone.com/automattic/reports/new mailto:security@automattic.com,,,https://hackerone.com/automattic,https://hackerone.com/automattic/thanks
+663,https://brookings.edu,mailto:cybersecurity@brookings.edu,,,,
+665,https://ucl.ac.uk,https://www.ucl.ac.uk/information-security/contact-us,,,,
+669,https://herokuapp.com,https://www.heroku.com/policy/security#vuln_report mailto:security@salesforce.com,,,https://www.heroku.com/policy/security,
+671,https://moz.com,inboundeng+cms@moz.com,,,https://moz.com/security-policy,https://moz.com/hall-of-fame
+674,https://google.co.in,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+679,https://people.com,mailto:security@dotdash.com,,,,
+681,https://theregister.com,mailto:security@theregister.com,2022-09-30t22:59:00.000z,,,
+686,https://sap.com,https://www.sap.com/report-a-vulnerability,2023-01-31t18:29:00.000z,,,
+695,https://urbandictionary.com,mailto:support@urbandictionary.com,2025-01-12t08:00:00.000z,,,
+720,https://google.com.au,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+727,https://semanticscholar.org,mailto:security@allenai.org,"sat, 1 jan 2022 00:00 -0700",,,
+735,https://ndtv.com,,,,,
+746,https://letsencrypt.org,security@letsencrypt.org,,,,
+748,https://google.cn,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+756,https://flic.kr,https://hackerone.com/flickr,,,,
+761,https://crunchbase.com,mailto:security@crunchbase.com,,https://about.crunchbase.com/about-us/careers,https://www.crunchbase.com/.well-known/security-policy.html,
+770,https://voanews.com,mailto:abuse@rferl.org,,,https://www.rferl.org/.well-known/rferl_responsible_disclosure_policy.pdf,
+780,https://google.ru,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+783,https://ilo.org,mailto:cybersecurity@ilo.org,2031-08-11t22:00:00.000z,,,
+788,https://bitbucket.org,https://www.atlassian.com/trust/security/report-a-vulnerability mailto:security@atlassian.com,2022-12-06t00:00:00.000z,https://www.atlassian.com/company/careers/all-jobs?team=security,https://www.atlassian.com/trust/security/report-a-vulnerability,
+800,https://zoho.com,https://bugbounty.zohocorp.com/bb/#/submitbug mailto:security@zohocorp.com,2023-04-27t00:00:00.000z,,https://bugbounty.zohocorp.com/bb/info,https://bugbounty.zohocorp.com/bb/info#hof
+806,https://hyatt.com,mailto:security@hyatt.com,,https://hyatt.jobs,https://hackerone.com/hyatt,
+809,https://lego.com,mailto:whitehat@lego.com,,,https://www.lego.com/legal/notices-and-policies/responsible-disclosure-policy/,
+810,https://jimdofree.com,mailto:security@jimdo.com,2022-09-26t22:00:00.000z,https://careers.jimdo.com/,,
+834,https://feedly.com,mailto:security@feedly.com,,,,
+838,https://lefigaro.fr,mailto:security-nm@lefigaro.fr,,,,
+842,https://google.nl,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+861,https://speedtest.net,mailto:security.ookla.com https://security.ookla.com,2023-05-18t07:00:00.000z,, https://security.ookla.com,
+864,https://theregister.co.uk,mailto:security@theregister.com,2022-09-30t22:59:00.000z,,,
+917,https://thebalance.com,mailto:security@dotdash.com,,,,
+935,https://wired.co.uk,cndtriage@condenast.co.uk,,https://condenastuk.avature.net/careers/searchjobs,,
+938,https://trendmicro.com,mailto:security@trendmicro.com,,,,https://success.trendmicro.com/vulnerability-response#acknowledgement
+952,https://verywellmind.com,mailto:security@dotdash.com,,,,
+957,https://google.com.br,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+965,https://nodejs.org,https://hackerone.com/nodejs,,,https://github.com/nodejs/node/blob/head/security.md#security,
+974,https://deezer.com,https://yeswehack.com/programs/deezer-bug-bounty-program-2019 https://vdp.deezer.com/,2023-07-30t22:00:00.000z,https://www.deezerjobs.com,https://yeswehack.com/programs/deezer-bug-bounty-program-2019,
+983,https://blogspot.ca,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+992,https://welt.de,mailto:security-incident@axelspringer.de,2022-12-03t13:00:00z,https://career.axelspringer.com/en/vacancies?tx_kesearch_pi1%5bsword%5d=security&id=65&tx_kesearch_pi1%5bpage%5d=1&tx_kesearch_pi1%5bresetfilters%5d=0&tx_kesearch_pi1%5bsortbyfield%5d=&tx_kesearch_pi1%5bsortbydir%5d=,,https://www.axelspringer.com/en/cyber-security
+1009,https://digitalocean.com,security@digitalocean.com https://hackerone.com/digitalocean,2023-01-30t19:30:00.000z,https://www.digitalocean.com/careers,https://www.digitalocean.com/contact-security,
+1021,https://ovhcloud.com,csirt@ovhcloud.com,,https://careers.ovh.com,https://yeswehack.com/programs/ovh,https://yeswehack.com/programs/ovh
+1030,https://biblegateway.com,vdp@harpercollins.com,,,,
+1037,https://google.com.hk,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+1053,https://treehugger.com,mailto:security@dotdash.com,,,,
+1057,https://lifewire.com,mailto:security@dotdash.com,,,,
+1061,https://blogspot.de,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+1083,https://apple.co,security@bitly.com,,,,
+1086,https://npmjs.com,security@npmjs.com,,https://www.npmjs.com/jobs,https://www.npmjs.com/policies/security,
+1099,https://sophos.com,security-alert@sophos.com https://www.sophos.com/security https://bugcrowd.com/sophos,,,https://www.sophos.com/security,
+1136,https://uwaterloo.ca,mailto:soc@uwaterloo.ca https://soc.uwaterloo.ca,2023-01-15t00:00:00.000z,,,
+1141,https://raspberrypi.org,security@raspberrypi.org,,,,
+1155,https://justgiving.com,mailto:security@blackbaud.com,,,https://www.blackbaud.com/security/responsible-disclosure,
+1159,https://cern.ch,https://security.web.cern.ch/home/en/csirt.shtml,2022-11-01t00:00:00.000z,https://cern.ch/jobs,https://security.web.cern.ch/home/en/kudos.shtml,
+1164,https://thespruce.com,mailto:security@dotdash.com,,,,
+1193,https://binance.com,security@binance.com,,https://www.binance.com/careers.html,https://bugcrowd.com/binance,https://bugcrowd.com/binance/hall-of-fame
+1196,https://amazon.in,https://hackerone.com/amazonvrp/reports/new,,https://www.amazon.jobs/en/teams/infosec,https://hackerone.com/amazonvrp,
+1200,https://curl.se,mailto:security@curl.se https://hackerone.com/curl,2023-05-22t00:00:00z,,https://curl.se/dev/secprocess.html,
+1203,https://redbubble.com,https://help.redbubble.com/hc/en-us/requests/new?ticket_form_id=16465,,,https://help.redbubble.com/hc/en-us/articles/214531243-report-a-website-security-vulnerability,
+1213,https://google.pl,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+1230,https://travelandleisure.com,mailto:security@dotdash.com,,,,
+1231,https://verywellhealth.com,mailto:security@dotdash.com,,,,
+1256,https://de.wordpress.org,https://hackerone.com/wordpress,2024-12-31t15:00:00.000z,,https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/,
+1258,https://logitech.com,https://www.logitech.com/security,2099-12-31t20:59:00.000z,,https://hackerone.com/logitech,
+1303,https://arduino.cc,mailto:security@arduino.cc,,,https://www.arduino.cc/en/main/security,
+1305,https://jetbrains.com,security@jetbrains.com,,,https://www.jetbrains.com/legal/docs/terms/coordinated-disclosure.html,
+1312,https://blogspot.fr,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+1328,https://ovh.com,csirt@ovhcloud.com,,https://careers.ovh.com,https://yeswehack.com/programs/ovh,https://yeswehack.com/programs/ovh
+1332,https://padlet.com,mailto:hello@padlet.com,,https://padlet.jobs,,
+1390,https://unimelb.edu.au,mailto:it-security@unimelb.edu.au,2023-04-25t14:00:00.000z,,https://policy.unimelb.edu.au/mpf1270 https://www.unimelb.edu.au/cybersecurity/report/vdp,
+1395,https://hotels.com,respdisc@expedia.com,,https://lifeatexpedia.com/,https://www.expediagroup.com/about/privacy-data-handling-requirements/,
+1406,https://google.ch,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+1414,https://duolingo.com,security@duolingo.com,,https://careers.duolingo.com,https://www.duolingo.com/privacy,
+1425,https://bild.de,mailto:security-incident.nmn@axelspringer.de,2022-12-30t23:00:00.000z,https://career.axelspringer.com/de/tech,,
+1427,https://google.be,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+1432,https://codecademy.com,mailto:security@codecademy.com,2025-01-01t08:01:00.000z,https://www.codecademy.com/about/careers,https://hackerone.com/codecademy,
+1441,https://google.co.th,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+1476,https://mcdonalds.com,dataquestions@us.mcd.com,,,,
+1481,https://wistia.com,security@wistia.com,,,,
+1499,https://odoo.com,security@odoo.com,,,https://www.odoo.com/security-report,
+1507,https://mariadb.org,https://hackerone.com/mariadb security@mariadb.org,,,https://mariadb.org/about/security-policy/,https://hackerone.com/mariadb/thanks
+1531,https://health.com,mailto:security@dotdash.com,,,,
+1552,https://orange.fr,security.fr@orange.com,,https://orange.jobs/,,
+1566,https://warwick.ac.uk,https://warwick.ac.uk/itss mailto:csiirt@warwick.ac.uk,2023-01-05t12:00:00.000z,,,
+1567,https://theknot.com,security [at] xogrp [dot] com,,,,
+1573,https://thebalancecareers.com,mailto:security@dotdash.com,,,,
+1575,https://zazzle.com,"the email address ""security"" on the domain ""zazzle.com""",,https://www.zazzle.com/jobs,,
+1579,https://google.at,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+1589,https://vrbo.com,respdisc@expedia.com,,https://lifeatexpedia.com/,https://www.expediagroup.com/about/privacy-data-handling-requirements/,
+1595,https://dreamhost.com,abuse@dreamhost.com,,https://www.dreamhost.com/careers/,,
+1600,https://expedia.com,respdisc@expedia.com,,https://lifeatexpedia.com/,https://www.expediagroup.com/about/privacy-data-handling-requirements/,
+1602,https://grammarly.com,security@grammarly.com,,https://www.grammarly.com/jobs/,https://hackerone.com/grammarly,https://hackerone.com/grammarly/thanks
+1623,https://nationalarchives.gov.uk,security-alert@nationalarchives.gov.uk,"fri, 28 jan 2023 23:59:59 +0000",,https://nationalarchives.gov.uk/.well-known/disclosure-policy.txt,
+1624,https://thebalancesmb.com,mailto:security@dotdash.com,,,,
+1630,https://google.com.tw,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+1640,https://louvre.fr,"[hebergement@louvre.fr, ssi@louvre.fr]",2022-03-14t09:00:00.000z,,,
+1649,https://c-span.org,mailto:acloutier@c-spanarchives.org,,,,
+1660,https://blogspot.in,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+1673,https://codecanyon.net,https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490,,,https://webuild.envato.com/helpful-hacker/,
+1686,https://drugs.com,mailto:security@drugs.com,,,https://www.drugs.com/support/responsible-disclosure-policy.html,https://www.drugs.com/support/security-hall-of-fame.html
+1698,https://realsimple.com,mailto:security@dotdash.com,,,,
+1726,https://google.com.mx,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+1749,https://bhg.com,mailto:security@dotdash.com,,,,
+1753,https://klarna.com,https://www.klarna.com/responsible-disclosure/,2023-06-30t20:00:00.000z,,,
+1755,https://chaturbate.com,mailto:security@chaturbate.com,,https://chaturbate.com/jobs,https://hackerone.com/chaturbate?type=team&view_policy=true,
+1756,https://tradingview.com,mailto:security@tradingview.com,,,https://www.tradingview.com/bounty/,
+1779,https://airtable.com,security@airtable.com,,https://airtable.com/jobs,https://hackerone.com/airtable,
+1781,https://google.se,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+1784,https://rte.ie,mailto:abuse@rte.ie,,,,
+1793,https://uio.no,https://cert.uio.no/contact,,,,
+1822,https://focus.de,mailto:security@burda-forward.de,,https://www.burda-forward.de/en/career/jobs/,https://www.burda-forward.de/en/security/,
+1828,https://thespruceeats.com,mailto:security@dotdash.com,,,,
+1840,https://google.com.ua,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+1859,https://yoast.com,mailto:security@yoast.com,2022-12-31t22:59:00.000z,,https://yoast.com/security-program/,
+1861,https://autoblog.com,mailto:security@yahooinc.com https://hackerone.com/yahoo,,https://www.yahooinc.com/careers/search.html?q=paranoids,https://hackerone.com/yahoo?view_policy=true,https://hackerone.com/yahoo/thanks
+1864,https://windy.com,mailto:security@windy.com,2032-04-30t21:59:00.000z,,,
+1871,https://asana.com,mailto:security@asana.com https://bugcrowd.com/asana,2023-06-03t07:00:00.000z,,https://bugcrowd.com/asana,
+1883,https://phpmyadmin.net,mailto:security@phpmyadmin.net,,,https://www.phpmyadmin.net/security/,
+1905,https://rferl.org,mailto:abuse@rferl.org,,,https://www.rferl.org/.well-known/rferl_responsible_disclosure_policy.pdf,
+1906,https://opensuse.org,https://www.suse.com/support/security/contact/,2022-12-30t23:00:00.000z,,,
+1911,https://atlassian.net,https://www.atlassian.com/trust/security/report-a-vulnerability mailto:security@atlassian.com,2022-12-06t00:00:00.000z,https://www.atlassian.com/company/careers/all-jobs?team=security,https://www.atlassian.com/trust/security/report-a-vulnerability,
+1927,https://parents.com,mailto:security@dotdash.com,,,,
+1936,https://libreoffice.org,mailto:hostmaster@documentfoundation.org,,,,
+1937,https://liveabout.com,mailto:security@dotdash.com,,,,
+1944,https://raspberrypi.com,mailto:security@raspberrypi.com,2022-10-06t08:00:00.000z,,,
+1953,https://blogspot.it,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+1994,https://eset.com,https://app.hacktrophy.com,,,https://www.eset.com/int/security-vulnerability-reporting/,
+1996,https://sitepoint.com,mailto:security@sitepoint.com,2023-08-01t00:00:00.000z,,,
+2042,https://lexisnexis.com,mailto:security@lexisnexis.com,2024-07-01t16:00:00.000z,https://www.lexisnexis.com/en-us/about-us/careers.page,,
+2047,https://google.cz,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2053,https://blogspot.jp,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2060,https://google.com.tr,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2075,https://google.com.sg,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2095,https://j.mp,security@bitly.com,,,,
+2102,https://google.co.id,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2146,https://skillshare.com,mailto:responsibledisclosure@skillshare.com https://hackerone.com/skillshare,2024-01-01t17:00:00.000z,https://www.skillshare.com/careers,,
+2149,https://nolo.com,mailto:security_issues@internetbrands.com,2026-01-01t07:59:00.000z,,,
+2167,https://google.com.ar,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2168,https://usu.edu,mailto:security@usu.edu,,,,
+2179,https://computerweekly.com,https://www.computerweekly.com/about/contact security@techtarget.com,,,https://www.techtarget.com/privacy-policy/,
+2190,https://ethereum.org,mailto:security@ethereum.org,2021-12-31t23:59:00.000z,https://ethereum.org/en/about/#open-jobs,https://bounty.ethereum.org https://eth2bounty.ethereum.org,
+2209,https://qualcomm.com,mailto:security@qualcomm.com mailto:product-security@qualcomm.com,"tue, 1 nov 2022 00:00 -0700",,https://www.qualcomm.com/company/product-security/report-a-bug,
+2220,https://google.dk,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2249,https://seriouseats.com,mailto:security@dotdash.com,,,,
+2267,https://archive.is,mailto:security@archive.is,,,,
+2278,https://brides.com,mailto:security@dotdash.com,,,,
+2279,https://berlin.de,mailto:security@berlinonline.net,2023-02-11t23:00:00.000z,,https://www.berlin.de/wir-ueber-uns/security,https://www.berlin.de/wir-ueber-uns/acknowledgments
+2306,https://yahoo.net,mailto:security@yahooinc.com https://hackerone.com/yahoo,,https://www.yahooinc.com/careers/search.html?q=paranoids,https://hackerone.com/yahoo?view_policy=true,https://hackerone.com/yahoo/thanks
+2310,https://southampton.ac.uk,mailto:infosec@soton.ac.uk,31 dec 2022 12:00 +0100,,,
+2324,https://google.hu,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2342,https://google.no,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2350,https://google.ro,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2352,https://google.gr,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2364,https://google.pt,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2373,https://wikitravel.org,mailto:security_issues@internetbrands.com,2026-01-01t07:59:00.000z,,,
+2383,https://google.co.nz,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2409,https://google.co.za,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2425,https://freecodecamp.org,https://contribute.freecodecamp.org/#/security,2022-12-31t18:30:00.000z,,https://contribute.freecodecamp.org/#/security,
+2427,https://toyota.com,https://hackerone.com/toyota,2026-01-01t05:01:00.000z,,,
+2432,https://google.com.ph,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2456,https://google.ie,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2482,https://inhabitat.com,mailto:security_issues@internetbrands.com,2026-01-01t07:59:00.000z,,,
+2495,https://accorhotels.com,https://app.yogosha.com/cvd/accor/4x1vtlxoid9bisalrgt2vg,,,,
+2508,https://google.fi,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2516,https://lu.se,mailto:abuse@lu.se tel:+46-46-2229000 https://www.ldc.lu.se/tjanster/it-sakerhet mailto:security@lu.se,2025-12-31t00:00:00z,,,
+2524,https://google.com.vn,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2527,https://metoffice.gov.uk,https://hackerone.com/ce2e2446-fcf0-4cc4-b60a-3d0c98df63c8/embedded_submissions/new,2031-07-01t00:00:00z,,https://www.metoffice.gov.uk/about-us/legal/vulnerability-disclosure-policy,
+2548,https://uu.se,https://www.uu.se/en/about-uu/contact/,,http://www.uu.se/jobb/,,
+2567,https://instyle.com,mailto:security@dotdash.com,,,,
+2592,https://elastic.co,mailto:security@elastic.co https://hackerone.com/elastic,2023-10-11t09:00:00.000z,https://jobs.elastic.co/all-openings#/,,
+2593,https://roku.com,security@roku.com ,"mon, 3 april 2023 12:00 am (pst) ",https://go.roku.com/trustcareers,,
+2614,https://haveibeenpwned.com,mailto:security@troyhunt.com https://twitter.com/troyhunt,,,https://www.troyhunt.com/beg-bounties/,
+2617,https://kit.edu,mailto:cert@kit.edu tel:+49-721-60845678,2022-10-01t08:00:00.000z,,,
+2644,https://adafruit.com,security@adafruit.com,,https://jobs.adafruit.com,https://www.adafruit.com/reportingsecurityissues,
+2659,https://google.co.il,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2663,https://player.fm,support@player.fm,,,,
+2664,https://emirates.com,https://www.emirates.com/ae/english/information/cybersecurity/,2025-03-30t20:00:00.000z,,https://www.emirates.com/ae/english/information/cybersecurity/,
+2668,https://google.co.kr,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2672,https://verywellfit.com,mailto:security@dotdash.com,,,,
+2679,https://blogspot.nl,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2686,https://gog.com,https://support.gog.com/hc/en-us/requests/new?form=other&product=gog,,,,
+2716,https://google.cl,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2751,https://rockstargames.com,https://hackerone.com/rockstargames/reports/new?type=team&report_type=vulnerability mailto:security@rockstargames.com,2023-12-31t23:59:59z,https://www.rockstargames.com/careers/openings/department/security,https://hackerone.com/rockstargames?type=team,https://hackerone.com/rockstargames/thanks
+2763,https://spacex.com,mailto:security@spacex.com,,https://www.spacex.com/careers/?department=information%2520security,,
+2773,https://kth.se,mailto:abuse@kth.se,2022-12-31t00:00:00.000z,,,
+2786,https://kaltura.com,malito:security@kaltura.com,,,,
+2789,https://shape.com,mailto:security@dotdash.com,,,,
+2794,https://tripsavvy.com,mailto:security@dotdash.com,,,,
+2801,https://boardgamegeek.com,security@boardgamegeek.com,,,https://boardgamegeek.com/responsible_disclosure_policy,
+2819,https://rijksoverheid.nl,mailto:cert@ncsc.nl,2023-09-01t00:00:00.000z,,https://english.ncsc.nl/contact/reporting-a-vulnerability-cvd https://www.ncsc.nl/contact/kwetsbaarheid-melden,
+2825,https://spoti.fi,security@bitly.com,,,,
+2832,https://city-data.com,https://www.city-data.com/bug-bounty-report.php security@city-data.com,,,https://www.city-data.com/bug-bounty.html,
+2843,https://gandi.net,mailto:security@gandi.net mailto:abuse@gandi.net,,https://www.welcometothejungle.co/companies/gandi,,
+2857,https://tue.nl,https://assets.tue.nl/fileadmin/content/universiteit/diensten/ims/rfc2350_1.6.pdf,2023-06-13t21:59:00.000z,,https://assets.tue.nl/fileadmin/content/universiteit/diensten/ims/rfc2350_1.6.pdf,
+2866,https://google.com.my,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2880,https://liu.se,mailto:infosec@liu.se,2023-02-28t11:00:00.000z,,,
+2885,https://brave.com,security@brave.com,,,https://hackerone.com/brave?view_policy=true,
+2887,https://thalesgroup.com,cert@thalesgroup.com https://www.thalesgroup.com/en/cert,,,https://www.thalesgroup.com/en/global/group/psirt,
+2888,https://wanadoo.fr,security.fr@orange.com,,https://orange.jobs/,,
+2899,https://uk.trustpilot.com,https://hackerone.com/trustpilot,,,,
+2952,https://google.rs,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2953,https://michelin.com,cert@michelin.com,,careers.michelin.com,,cert.michelin.com
+2958,https://onet.pl,mailto:security@ringieraxelspringer.pl ,,,,
+2963,https://google.com.co,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+2971,https://bahn.de,security-issues@deutschebahn.com,,https://db.de/infosec-jobs,,
+3057,https://cuni.cz,mailto:abuse@cuni.cz https://csirt.cuni.cz/en/contact,2022-06-30t18:00:00z,,https://csirt.cuni.cz/en/incident_reporting,
+3061,https://tidal.com,mailto:security@tidal.com,,https://careers.tidal.com/,,
+3073,https://google.bg,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+3110,https://google.ae,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+3128,https://au.dk,mailto:security@au.dk https://twitter.com/aarhusunicyber,,,,
+3134,https://f-secure.com,security@f-secure.com,,,https://www.f-secure.com/en/home/support/vulnerability-reward-program,https://www.f-secure.com/en/home/support/vulnerability-reward-program/hall-of-fame
+3150,https://fortinet.com,https://www.fortiguard.com/faq/psirt-contact,2025-12-31t08:00:00.000z,https://www.fortinet.com/corporate/careers,https://www.fortiguard.com/psirt_policy,
+3164,https://nrk.no,mailto:it-sikkerhetsgruppe@nrk.no,"thu, 01 aug 2024 10:00:00",,https://info.nrk.no/hjem/responsible-disclosure-policy/,
+3171,https://wm.edu,support@wm.edu +1-757-221-4357,,,,
+3180,https://verywellfamily.com,mailto:security@dotdash.com,,,,
+3205,https://google.com.pe,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+3214,https://google.com.eg,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+3219,https://globalsign.com,mailto:security@globalsign.com https://www.intigriti.com/,2022-12-10t07:00:00.000z,,,
+3230,https://bol.com,rd@bol.com,,,https://www.bol.com/nl/m/algemeen/kwetsbaarheid-melden/subject/64209061/index.html,
+3231,https://www.gov.scot,mailto:vulnerabilitydisclosures@gov.scot,2023-02-28t00:00:00.000z,, https://www.gov.scot/publications/vulnerability-disclosure-policy/,
+3247,https://google.sk,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+3248,https://pixiv.net,https://hackerone.com/pixiv,,https://recruit.jobcan.jp/pixiv/show/b001/110186,,
+3305,https://nextdoor.com,mailto:security@nextdoor.com https://tracker.bugcrowd.com/nextdoor-bug-bounty,,https://nextdoor.com/jobs,,
+3307,https://sparkfun.com,mailto:it_security@sparkfun.com,,,,
+3320,https://nyti.ms,security@bitly.com,,,,
+3369,https://roblox.com,https://en.help.roblox.com/hc/articles/360038516512,,https://corp.roblox.com/careers/,,
+3373,https://mnn.com,mailto:security@dotdash.com,,,,
+3379,https://loom.com,mailto:security@loom.com,,,,
+3410,https://google.by,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+3414,https://blogspot.ru,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+3422,https://blockchain.com,https://hackerone.com/blockchain,,,https://hackerone.com/blockchain,
+3441,https://google.hr,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+3492,https://southwest.com,mailto:securityreport@wnco.com,,,https://www.southwest.com/security-researchers.txt,
+3510,https://1password.com,mailto:security@agilebits.com https://bugcrowd.com/agilebits,,,,
+3554,https://aftonbladet.se,mailto:security@aftonbladet.se,,,,
+3559,https://conta.cc,security@bitly.com,,,,
+3636,https://google.lt,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+3644,https://acronis.com,mailto:security@acronis.com https://hackerone.com/acronis/,,https://www.acronis.com/en-us/careers/,,
+3649,https://google.com.pk,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+3696,https://fanfiction.net,security@fictionpress.com,,,,
+3705,https://google.si,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+3709,https://avvo.com,mailto:security_issues@internetbrands.com,2026-01-01t07:59:00.000z,,,
+3722,https://uni-muenster.de,mailto:cert@uni-muenster.de https://www.uni-muenster.de/cert/en/incidents/,2024-02-09t23:00:00.000z,,https://www.uni-muenster.de/cert/rfc2350/csirt-descr-en.pdf,
+3737,https://spring.io,mailto:security@vmware.com https://spring.io/security-policy https://tanzu.vmware.com/security,2023-08-31t22:00:00.000z,,https://spring.io/security-policy,
+3753,https://svt.se,https://kontakt.svt.se/guide/kontakt,,https://svti.svt.se/,,
+3790,https://blogspot.se,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+3796,https://ramseysolutions.com,mailto:security_awareness@ramseysolutions.com,,,,
+3804,https://google.lv,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+3806,https://google.com.sa,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+3812,https://ionos.com,mailto: security@ionos.com,2024-02-11t23:30:00.000z,https://jobs.ionos.de/,https://www.ionos.com/it-security,
+3821,https://rtbf.be,mailto:gr_irtbf_it_kernel@rtbf.be,,http://emploi.rtbf.be/index.aspx,https://www.rtbf.be/cgu/,
+3840,https://heroku.com,https://www.heroku.com/policy/security#vuln_report mailto:security@salesforce.com,,,https://www.heroku.com/policy/security,
+3850,https://google.co.ve,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+3899,https://wordfence.com,security@wordfence.com,,,https://www.wordfence.com/security/,
+3911,https://muni.cz,mailto:csirt@muni.cz https://csirt.muni.cz/ tel:+420549494242,2023-02-01t00:00:00.000z,,,
+3913,https://99designs.com,mailto:security@99designs.com,,https://99designs.com/about/jobs,,
+3933,https://google.ee,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+3938,https://hostinger.com,https://hackerone.com/5093805e-4e52-474b-ba7f-5c04a7ba10e7/embedded_submissions/new<br> mailto:security@hostinger.com<br>,,,https://www.hostinger.com/responsible-disclosure-policy,https://www.hostinger.com/wall-of-fame<br>
+3943,https://gosuslugi.ru,mailto:infosec@gosuslugi.ru,"sun, 21 jul 2026 08:00:00 +0300",,,
+3952,https://rackspace.com,mailto:security@rackspace.com,,,https://www.rackspace.com/information/legal/rsdp,https://www.rackspace.com/information/legal/rsdp
+3975,https://okta.com,mailto:security@okta.com,2023-01-01t05:00:00.000z,https://www.okta.com/company/careers/,https://www.okta.com/vulnerability-reporting-policy/,
+3988,https://clutch.co,webmaster@clutch.co,,https://clutch.co/careers,,
+3996,https://chess.com,https://support.chess.com/article/346-contact-us,,,,
+4002,https://google.com.ec,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4009,https://deepl.com,mailto:security@deepl.com,2023-04-18t00:00:00+01:00,,,
+4016,https://optimizely.com,security@optimizely.com,,,,
+4031,https://google.com.ng,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4033,https://greenhouse.io,user@example.com,,,https://www.greenhouse.io/security-policy,https://www.greenhouse.io/hall-of-fame
+4053,https://allegro.pl,https://hackerone.com/allegro/reports/new https://allegro.pl/cert/,,https://allegro.tech/jobs/,https://hackerone.com/allegro?view_policy=true,
+4059,https://web.de,mailto:report@bugbounty.web.de,,https://web.de/security-jobs,https://bugbounty.web.de,
+4077,https://google.com.bd,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4080,https://linode.com,disclosure@linode.com,,https://linode.com/careers,https://hackerone.com/linode,
+4101,https://google.ba,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4110,https://kinsta.com,mailto:security@kinsta.com,2022-10-18t18:00:00z,,https://kinsta.com/knowledgebase/disclose-security-vulnerability/,
+4127,https://arbeitsagentur.de,mailto:cert@arbeitsagentur.de,2023-05-09t21:59:00.000z,,,
+4186,https://google.co.cr,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4203,https://finder.com,https://www.finder.com.au/vulnerability-disclosure-policy,,,https://www.finder.com.au/vulnerability-disclosure-policy,
+4272,https://hse.ru,mailto:underground@hse.ru,2029-12-31t21:00:00.000z,,,
+4303,https://google.co.ke,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4312,https://google.kz,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4330,https://godotengine.org,mailto:security@godotengine.org,2022-09-14t23:59:00.000z,,https://github.com/godotengine/.github/blob/master/security.md,
+4339,https://united-domains.de,bug@united-domains.de,,,,
+4347,https://hackerone.com,https://hackerone.com/security/reports/new,2022-09-12T03:43:58+00:00,,https://hackerone.com/security,
+4356,https://juntadeandalucia.es,mailto:atencion.cert@juntadeandalucia.es http://andaluciacert.juntadeandalucia.es,,,,
+4373,https://synology.com,mailto:security@synology.com https://www.synology.com/support tel:+886-2-2955-4000 tel:+886-2-2955-1814,"fri, 30 jun 2023 23:59:59 +0800",https://career.synology.com/hq/,https://www.synology.com/security/bounty_program,
+4374,https://liverpoolfc.com,contactus@liverpoolfc.com,2022-07-01t00:00:00z,,,
+4416,https://google.com.uy,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4447,https://google.lk,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4450,https://playbill.com,admin@happycog.com,,,https://playbill.com/security-policy,https://playbill.com/hall-of-fame
+4473,https://google.com.do,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4517,https://google.is,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4519,https://instacart.com,security@instacart.com,"thu, 31 dec 2026 23:59 -0700",https://instacart.careers/current-openings/,https://hackerone.com/instacart,
+4535,https://trezor.io,security@trezor.io,,,https://trezor.io/security/,
+4536,https://ecosia.org,mailto:security@ecosia.org,2023-05-01t10:00:00.000z,,,
+4542,https://dlr.de,mailto:csirt@dlr.de,,,,
+4545,https://google.lu,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4584,https://google.ge,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4592,https://google.com.pr,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4598,https://toasttab.com,aglover@vectormediagroup.com,,,https://pos.toasttab.com/security-policy,https://pos.toasttab.com/hall-of-fame
+4602,https://martindale.com,mailto:security_issues@internetbrands.com,2026-01-01t07:59:00.000z,,,
+4609,https://google.com.mt,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4612,https://nuance.com,mailto:security@nuance.com https://www.nuance.com/about-us/security/engage-us.html,,,,
+4619,https://google.com.gt,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4620,https://dotdashmeredith.com,mailto:security@dotdash.com,,,,
+4636,https://sprint.com,web_security@sprint.com,,,,
+4657,https://thesprucecrafts.com,mailto:security@dotdash.com,,,,
+4661,https://google.com.bo,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4664,https://google.cm,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4689,https://byrdie.com,mailto:security@dotdash.com,,,,
+4690,https://google.am,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4693,https://google.co.ma,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4700,https://government.nl,mailto:cert@ncsc.nl,2023-09-01t00:00:00.000z,,https://english.ncsc.nl/contact/reporting-a-vulnerability-cvd https://www.ncsc.nl/contact/kwetsbaarheid-melden,
+4706,https://google.com.lb,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4712,https://google.jo,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4717,https://jigsawplanet.com,mailto:hostmaster@tibo.cz,,,,
+4722,https://google.bs,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4729,https://intercom.com,https://bugcrowd.com/intercom mailto:security@intercom.com,,https://boards.greenhouse.io/intercom/jobs/1888872,https://www.bugcrowd.com/resource/standard-disclosure-terms/,
+4730,https://google.bi,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4732,https://preply.com,security@preply.com,,https://preply.com/en/careers,,
+4734,https://ncsc.gov.uk,https://www.ncsc.gov.uk/vulnerability-reporting,2022-09-14t12:30:00.000z,,https://www.ncsc.gov.uk/vulnerability-reporting,
+4745,https://google.ad,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4747,https://travelocity.com,respdisc@expedia.com,,https://lifeatexpedia.com/,https://www.expediagroup.com/about/privacy-data-handling-requirements/,
+4752,https://google.com.sv,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4767,https://google.com.cu,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4773,https://google.ci,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4781,https://cults3d.com,https://cults3d.com/en/contact mailto:hello@cults3d.com,,,,
+4782,https://samba.org,mailto:security@samba.org,,,,
+4792,https://google.com.jm,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4801,https://google.com.kh,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4811,https://google.iq,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4826,https://google.co.bw,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4830,https://winscp.net,security@winscp.net,,,,
+4840,https://spreadshirt.com,mailto:security@spreadgroup.com,2022-10-29t00:00:00.000z,,,
+4853,https://google.mu,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4858,https://buff.ly,security@bitly.com,,,,
+4859,https://gumtree.com,https://app.zerocopter.com/en/rd/9ccf0a6f-56c3-4c1a-aaaa-abed41e7b567 https://help.gumtree.com/s/contactsupport,,,https://app.zerocopter.com/en/rd/9ccf0a6f-56c3-4c1a-aaaa-abed41e7b567,
+4861,https://google.mn,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4875,https://google.com.bh,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4885,https://amzn.com,https://hackerone.com/amazonvrp/reports/new,,https://www.amazon.jobs/en/teams/infosec,https://hackerone.com/amazonvrp,
+4890,https://google.com.ag,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4892,https://odysee.com,security@odysee.com,,,https://github.com/odyseeteam/odysee-frontend#security,
+4897,https://google.com.pa,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4911,https://betfair.com,https://hackerone.com/flutteruki,,https://apply.paddypowerbetfair.jobs/betfair/vacancy/find/results/ https://apply.workwithpaddy.com/wwp/vacancy/find/results/ https://apply.blip.pt/jobs/vacancy/find/results/ https://apply.betfairromania.ro/vacancy/find/results/,https://hackerone.com/flutteruki,https://hackerone.com/flutteruki
+4912,https://google.com.gh,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4926,https://google.cd,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4939,https://google.com.bz,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4954,https://google.com.kw,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4959,https://todoist.com,https://todoist.com/contact?area=bug_bounty,2023-03-01T00:00:00.000Z,,https://todoist.com/help/articles/doist-bug-bounty-policy,
+4964,https://20min.ch,mailto:security@tx.group,2025-01-01t00:00:00.000z,,https://bugcrowd.com/twentyminuten,
+4974,https://google.co.ug,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4979,https://google.com.py,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+4984,https://google.hn,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5004,https://rarlab.com,abuse@rarlab.com,,,,
+5032,https://google.tt,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5034,https://baseball-reference.com,mailto:bugs_3@sports-reference.com,,,,
+5039,https://google.li,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5047,https://google.com.ni,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5048,https://awin.com,mailto:security-bugs@awin.com,,,,
+5063,https://google.dm,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5066,https://leafly.com,mailto:security@leafly.com,,,,
+5094,https://google.tn,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5105,https://dn.se,mailto:security@dn.se,,,,
+5112,https://robinhood.com,https://hackerone.com/robinhood,2023-07-12t11:59:00.000z,https://careers.robinhood.com,https://hackerone.com/robinhood,
+5118,https://google.com.af,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5122,https://google.com.ly,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5126,https://google.cg,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5135,https://google.com.ai,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5147,https://openclipart.org,love@openclipart.org,,,,
+5155,https://google.vg,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5165,https://google.sn,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5170,https://google.la,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5175,https://gadgets360.com,,,,,
+5178,https://google.co.ck,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5183,https://google.al,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5186,https://google.co.mz,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5188,https://google.co.zw,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5202,https://bmwgroup.com,https://www.bmwgroup.com/en/general/security.html https://www.bmwgroup.com/de/general/security.html https://hackerone.com/bmwgroup/ mailto:cert@bmw.de,,,https://www.bmwgroup.com/en/general/security.html https://www.bmwgroup.com/de/general/security.html https://hackerone.com/bmwgroup?type=team&view_policy=true,
+5210,https://burberry.com,appsec@burberry.com ,,https://burberrycareers.com/search/?q=security ,,
+5213,https://google.vu,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5215,https://vrt.be,mailto:infosec@vrt.be,,,https://www.vrt.be/en/responsible-disclosure-policy-english-version/,https://www.vrt.be/nl/info/responsible-disclosure-policy/responsible-disclosure-hall-of-fame/
+5216,https://google.com.bn,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5222,https://google.bf,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5226,https://google.com.et,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5227,https://expressvpn.com,https://www.expressvpn.com/bug-bounty mailto:security@expressvpn.com mailto:support@expressvpn.com,,https://www.expressvpn.com/jobs,,
+5232,https://ki.se,mailto:webb@ki.se,2023-01-01t10:00:00.000z,,,
+5236,https://google.fm,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5240,https://google.sc,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5248,https://golem.de,mailto:technik@golem.de mailto:datenschutz@golem.de,2022-12-31t22:59:00.000z,,,
+5249,https://daad.de,mailto:security@snoopmedia.com,,https://www.snoopmedia.com/jobs/,,
+5252,https://google.com.om,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5254,https://hermes.com,mailto:security.alert.digital@hermes.com,2022-12-30t23:00:00.000z,,https://vdp.hermes.com,
+5256,https://google.com.qa,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5275,https://google.com.cy,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5278,https://learnreligions.com,mailto:security@dotdash.com,,,,
+5289,https://google.com.na,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5291,https://google.com.gi,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5297,https://google.com.tj,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5299,https://google.cf,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5300,https://google.mv,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5302,https://google.mk,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5307,https://google.co.ls,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5312,https://google.rw,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5313,https://blogspot.be,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5314,https://orbitz.com,respdisc@expedia.com,,https://lifeatexpedia.com/,https://www.expediagroup.com/about/privacy-data-handling-requirements/,
+5317,https://google.sh,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5327,https://google.md,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5329,https://google.co.zm,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5333,https://getyourguide.com,https://www.getyourguide.com/security,"tue, 19 jan 2038 03:14:07 +0000",https://careers.getyourguide.com/,https://www.getyourguide.com/security,
+5338,https://google.ms,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5343,https://google.mg,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5346,https://bmw.com,https://www.bmwgroup.com/en/general/security.html https://www.bmwgroup.com/de/general/security.html https://hackerone.com/bmwgroup/ mailto:cert@bmw.de,,,https://www.bmwgroup.com/en/general/security.html https://www.bmwgroup.com/de/general/security.html https://hackerone.com/bmwgroup?type=team&view_policy=true,
+5347,https://google.dj,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5352,https://google.kg,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5357,https://creditkarma.com,https://www.creditkarma.com/about/security mailto:vulnerabilities@creditkarma.com,,https://www.creditkarma.com/careers,https://bugcrowd.com/creditkarma,
+5372,https://google.je,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5373,https://google.com.fj,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5378,https://glamourmagazine.co.uk,cndtriage@condenast.co.uk,,https://condenastuk.avature.net/careers/searchjobs,,
+5382,https://simplyrecipes.com,mailto:security@dotdash.com,,,,
+5388,https://rtl.fr,website-security@odiso.com,,,,
+5395,https://google.ws,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5398,https://food.gov.uk,https://www.food.gov.uk/vulnerability-disclosure-policy,,,https://www.food.gov.uk/vulnerability-disclosure-policy,
+5403,https://google.bj,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5405,https://google.gg,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5421,https://google.cv,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5428,https://outbrain.com,https://www.outbrain.com/security/bug-bounty/ ,,,https://www.outbrain.com/security/bug-bounty/,
+5433,https://hopin.com,secops@hopin.com,"sun, 16 mar 2025 23:59 +0530",https://hopin.com/careers,https://hopin.com/security/policy,
+5434,https://grc.com,security-reports-0017@grc.com,,,,
+5435,https://google.co.tz,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5456,https://google.pn,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5462,https://google.gl,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5464,https://google.co.uz,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5466,https://solarwinds.com,mailto:security@solarwinds.com,,https://solarwinds.jobs,https://www.solarwinds.com/security/security-statement,
+5478,https://lancaster.ac.uk,mailto:breach-notification@lancaster.ac.uk,,,,
+5480,https://google.ps,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5482,https://google.mw,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5499,https://google.ht,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5500,https://auth0.com,https://auth0.com/responsible-disclosure-policy mailto:security@auth0.com,,https://auth0.com/careers/positions?areas=security,https://auth0.com/responsible-disclosure-policy,
+5505,https://google.ki,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5541,https://google.to,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5545,https://google.nu,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5551,https://google.sm,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5597,https://welivesecurity.com,mailto:security@eset.com,,,https://www.eset.com/int/security-vulnerability-reporting/,
+5599,https://google.so,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5601,https://google.co.ao,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5610,https://google.tm,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5620,https://google.gm,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5621,https://cleverreach.com,mailto:security@cleverreach.com,2022-12-31t22:59:00.000z,,,
+5641,https://google.ac,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5644,https://metamask.io,mailto:security@metamask.io,2022-12-31t23:59:00.000z,https://consensys.net/careers/,https://metamask.io/security,
+5647,https://google.co.vi,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5658,https://doityourself.com,mailto:security_issues@internetbrands.com,2026-01-01t07:59:00.000z,,,
+5665,https://google.gy,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5667,https://google.com.sb,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5678,https://weddingbee.com,mailto:security_issues@internetbrands.com,2026-01-01t07:59:00.000z,,,
+5681,https://ionos.de,mailto: security@ionos.com,2024-02-11t23:30:00.000z,https://jobs.ionos.de/,https://www.ionos.com/it-security,
+5686,https://sfr.fr,psirt-ct@sfr.com,,,,
+5696,https://google.me,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5700,https://google.ml,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5710,https://google.gp,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5728,https://google.tg,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5732,https://google.com.vc,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5750,https://google.im,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5760,https://jotformeu.com,https://www.jotform.com/bug-bounty/,2023-01-31t21:00:00.000z,https://www.jotform.com/jobs/,https://www.jotform.com/bug-bounty/#rule-and-guidelines,
+5763,https://google.tk,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5771,https://google.st,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5780,https://actblue.com,mailto:bugbounty@actbluetech.com https://hackerone.com/5b6001b0-6088-4c54-bf81-01cfe3c12921/embedded_submissions/new,2027-01-01t04:59:00.000z,https://secure.actblue.com/available-positions,https://secure.actblue.com/content/security,
+5791,https://google.ne,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5823,https://weblate.org,https://hackerone.com/weblate mailto:security@weblate.org,,,https://docs.weblate.org/en/latest/contributing/issues.html#security,
+5844,https://google.bt,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5847,https://fark.com,https://www.fark.com/farkback/error,,,https://www.fark.com/farq/faq/#how_do_i_report_a_bug_or_a_security_issue?,
+5851,https://ui.com,security@ui.com,,,https://ui.com/security/,
+5855,https://gmx.net,mailto:report@bugbounty.gmx.net,,https://www.gmx.net/security-jobs,https://bugbounty.gmx.net,
+5856,https://sncf.com,cert@sncf.fr<br>,,,,
+5866,https://google.com.sl,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5868,https://google.com.pg,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5873,https://wise.com,mailto:soc@wise.com https://wise.com/responsible-disclosure,,https://wise.jobs/,https://bugcrowd.com/wise,
+5894,https://home.cern,https://security.web.cern.ch/home/en/csirt.shtml,2022-11-01t00:00:00.000z,https://cern.ch/jobs,https://security.web.cern.ch/home/en/kudos.shtml,
+5905,https://bosch.com,https://psirt.bosch.com/report-a-vulnerability/,,,https://psirt.bosch.com/bosch-responsible-disclosure-policy/,
+5922,https://google.nr,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+5956,https://laposte.fr,https://www.trusted-introducer.org/directory/teams/cert-la-poste.html,,,,
+5967,https://tagesanzeiger.ch,mailto:security@tx.group,2025-01-01t00:00:00.000z,,https://bugcrowd.com/tamedia,
+5979,https://pirelli.com,mailto:cert@pirelli.com,,,,
+5989,https://google.tl,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+6000,https://daveramsey.com,mailto:security_awareness@daveramsey.com,,,,
+6003,https://bentley.com,mailto:security@bentley.com,,,https://www.bentley.com/responsible_disclosure.pdf,
+6010,https://jouwweb.nl,mailto:tech@webador.com,2100-12-31t23:59:59.999z,https://www.webador.com/jobs,,
+6041,https://google.td,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+6060,https://google.com.mm,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+6068,https://lancs.ac.uk,mailto:breach-notification@lancaster.ac.uk,,,,
+6138,https://blogspot.ch,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+6157,https://newcastle.edu.au,mailto:it-security@newcastle.edu.au,2022-06-21t00:37:00.000z,https://www.newcastle.edu.au/our-uni/jobs,,
+6161,https://fasthosts.co.uk,security@fasthosts.com,,,,
+6162,https://blogspot.mx,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+6192,https://articulate.com,mailto:security-disclosure@articulate.com,,,,
+6262,https://ckeditor.com,mailto:security@cksource.com,,,,
+6286,https://google.ga,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+6292,https://arcg.is,security@bitly.com,,,,
+6293,https://blogspot.gr,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+6297,https://transip.nl,disclosure@nl.team.blue security@nl.team.blue,,,https://www.transip.nl/legal-and-security/security/,
+6305,https://hmrc.gov.uk,https://hackerone.com/44c348eb-e030-4273-b445-d4a2f6f83ba8/embedded_submissions/new https://www.gov.uk/contact/govuk,2022-11-16 13:12:30+00:00,https://www.civilservicejobs.service.gov.uk/,https://www.gov.uk/help/report-vulnerability,
+6316,https://archive.ph,mailto:security@archive.is,,,,
+6317,https://rlp.de,soc@cert.rlp.de,,,,
+6328,https://fitday.com,mailto:security_issues@internetbrands.com,2026-01-01t07:59:00.000z,,,
+6342,https://f-droid.org,mailto:team@f-droid.org https://gitlab.com/fdroid/admin/issues,,,,
+6366,https://hw.ac.uk,hwcert@hw.ac.uk,2022-09-03t23:59:59z,,https://www.hw.ac.uk/vulnerability-reporting,
+6386,https://tidd.ly,security@bitly.com,,,,
+6416,https://newrelic.com,https://hackerone.com/newrelic,,,https://hackerone.com/newrelic,
+6453,https://protonmail.com,mailto:security@proton.ch,2022-12-31t23:59:59.999z,https://careers.proton.me/,https://proton.me/blog/protonmail-bug-bounty-program,
+6498,https://proton.me,mailto:security@proton.ch,2022-12-31t23:59:59.999z,https://careers.proton.me/,https://proton.me/blog/protonmail-bug-bounty-program,
+6507,https://walmart.ca,https://corporate.walmart.com/article/responsible-disclosure-policy,,,https://corporate.walmart.com/article/responsible-disclosure-policy,
+6575,https://thesprucepets.com,mailto:security@dotdash.com,,,,
+6587,https://hs.fi,mailto:cert@sanoma.com mailto:sndp.oncall@sanoma.com,,,https://www.sanoma.com/en/responsible-disclosure-statement/,
+6590,https://hosted.weblate.org,https://hackerone.com/weblate mailto:security@weblate.org,,,https://docs.weblate.org/en/latest/contributing/issues.html#security,
+6598,https://google.com.nf,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+6600,https://graphicriver.net,https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490,,,https://webuild.envato.com/helpful-hacker/,
+6616,https://finder.com.au,https://www.finder.com.au/vulnerability-disclosure-policy,,,https://www.finder.com.au/vulnerability-disclosure-policy,
+6639,https://planetary.org,mark.hilverda@planetary.org,,,https://www.planetary.org/security-policy,https://www.planetary.org/hall-of-fame
+6668,https://cdp.net,mailto:security.contact@cdp.net,,,,
+6691,https://scotland.gov.uk,mailto:vulnerabilitydisclosures@gov.scot,2023-02-28t00:00:00.000z,, https://www.gov.scot/publications/vulnerability-disclosure-policy/,
+6711,https://blockchain.info,https://hackerone.com/blockchain,,,https://hackerone.com/blockchain,
+6730,https://rivals.com,mailto:security@yahooinc.com https://hackerone.com/yahoo,,https://www.yahooinc.com/careers/search.html?q=paranoids,https://hackerone.com/yahoo?view_policy=true,https://hackerone.com/yahoo/thanks
+6763,https://allianz.com,security@allianz.com,,https://careers.allianz.com/,,
+6802,https://backblaze.com,https://bugcrowd.com/backblaze/report,,https://www.backblaze.com/company/jobs.html,https://bugcrowd.com/backblaze,
+6812,https://lawyers.com,mailto:security_issues@internetbrands.com,2026-01-01t07:59:00.000z,,,
+6841,https://waikato.ac.nz,mailto:it-security@waikato.ac.nz,,,,
+6851,https://23andme.com,https://www.23andme.com/security-report/ https://bugcrowd.com/twentythree-and-me,2022-12-31t09:00:00.000z,https://www.23andme.com/careers/,https://www.23andme.com/security-report/,
+6861,https://smallpdf.com,mailto:security@smallpdf.com,,,https://smallpdf.com/vulnerability-disclosure https://smallpdf.com/legal,
+6865,https://google.sr,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+6876,https://inthesetimes.com,seamus@gridworkdesign.com,,,https://inthesetimes.com/security-policy,https://inthesetimes.com/hall-of-fame
+6941,https://tugraz.at,mailto:cert@tugraz.at phone:+43-316-873/7000,,,,
+6964,https://blogspot.pt,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+6999,https://planetradio.co.uk,mailto: bug-notification@bauermedia.com,2050-12-31t23:59:00.000z,,https://planetradio.co.uk/security-policy.txt,
+7002,https://typo3.org,mailto:security@typo3.org,,,https://typo3.org/community/teams/security/incident-handling,
+7015,https://aol.co.uk,mailto:security@yahooinc.com https://hackerone.com/yahoo,,https://www.yahooinc.com/careers/search.html?q=paranoids,https://hackerone.com/yahoo?view_policy=true,https://hackerone.com/yahoo/thanks
+7029,https://fnal.gov,https://doe.responsibledisclosure.com,,,,
+7040,https://nsf.org,eli@happycog.com,,,https://www.nsf.org/security-policy,https://www.nsf.org/hall-of-fame
+7052,https://basketball-reference.com,mailto:bugs_3@sports-reference.com,,,,
+7088,https://compass.com,mailto:security-reports@compass.com,,,,
+7110,https://uni-erlangen.de,https://www.rrze.fau.de/infocenter/kontakt-hilfe/sicherheitsvorfaelle/abuse/ https://www.rrze.fau.de/infocenter/kontakt-hilfe/sicherheitsvorfaelle/,2023-09-30t22:00:00.000z,,,
+7176,https://tibco.com,https://www.tibco.com/security mailto:security@tibco.com,,,https://www.tibco.com/security/vulnerability-disclosure-policy,
+7208,https://livestorm.co,mailto:security@livestorm.co,,,,
+7235,https://add.my.yahoo.com,mailto:security@yahooinc.com https://hackerone.com/yahoo,,https://www.yahooinc.com/careers/search.html?q=paranoids,https://hackerone.com/yahoo?view_policy=true,https://hackerone.com/yahoo/thanks
+7260,https://belastingdienst.nl,mailto:soc@belastingdienst.nl,2023-02-01t11:00:00.000z,,https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/standaard_functies/individuals/contact/data-leak-vulnerability-abuse-computer-systems,
+7264,https://rolex.com,mailto:security@rolex.com,2022-11-01t00:00:00.000z,https://www.carrieres-rolex.com/,,
+7269,https://grab.com,https://hackerone.com/grab security@grab.com,,,https://hackerone.com/grab?view_policy=true,https://hackerone.com/grab/thanks
+7304,https://internic.net,https://hackerone.com/icann mailto:vulnerability@icann.org,,,https://www.icann.org/vulnerabilities,
+7335,https://jupyter.org,mailto:security@ipython.org,,,https://jupyter.org/security,
+7373,https://anaconda.com,will@xdlab.co,,,https://www.anaconda.com/security-policy,https://www.anaconda.com/hall-of-fame
+7436,https://axis.com,mailto:product-security@axis.com mailto:it-security@axis.com,2029-12-31t23:00:00.000z,https://www.axis.com/careers/open-positions,https://www.axis.com/files/manuals/gd_policy_axis_vulnerability_en_1704_lo.pdf,
+7455,https://khronos.org,mailto:security@khronosgroup.org,2023-01-01t04:59:00.000z,,,
+7462,https://dazn.com,mailto:security@dazn.com,2023-06-01t22:00:00.000z,https://careers.dazn.com/teams/technology/,,
+7470,https://waitrose.com,mailto:information.security@waitrose.co.uk,2022-09-30t23:59:00.000z,,https://hackerone.com/waitrose,
+7471,https://audiojungle.net,https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490,,,https://webuild.envato.com/helpful-hacker/,
+7477,https://revolut.com,https://www.revolut.com/responsible-disclosure-program security@revolut.com,,,,
+7499,https://tweakers.net,https://app.intigriti.com/programs/dpgm/tweakers/detail,2023-05-12t08:02:00.000z,https://vacatures.dpgmedia.nl/,https://tweakers.net/info/responsible-disclosure/,
+7513,https://tenable.com,mailto:vulnreport@tenable.com,"wed, 1 mar 2023 00:00 -0400",https://www.tenable.com/careers,https://www.tenable.com/security/report,https://www.tenable.com/security/report/hall-of-fame
+7611,https://onepeloton.com,mailto:secure@onepeloton.com,,,https://onepeloton.com/security,
+7612,https://vistaprint.com,bugbounty@cimpress.com,,,,
+7618,https://thebump.com,security [at] xogrp [dot] com,,,,
+7619,https://cntraveller.com,cndtriage@condenast.co.uk,,https://condenastuk.avature.net/careers/searchjobs,,
+7643,https://kck.st,security@bitly.com,,,,
+7654,https://pro-football-reference.com,mailto:bugs_3@sports-reference.com,,,,
+7670,https://servicenow.com,disclosure@servicenow.com,,https://www.servicenow.com/careers.html,https://www.servicenow.com/company/trust/responsible-disclosure.html,
+7681,https://australia.gov.au,mailto:ausgov@dta.gov.au,,,,
+7695,https://pl-pl.facebook.com,https://www.facebook.com/whitehat/report/,"wed, 21 sep 2022 03:12:11 -0700",https://www.facebook.com/careers/teams/security/,https://www.facebook.com/whitehat/info/ https://www.facebook.com/security/advisories/vulnerability-disclosure-policy,
+7702,https://mikrotik.com,https://mikrotik.com/support,,,https://mikrotik.com/support,
+7719,https://auspost.com.au,mailto:security@auspost.com.au,,https://auspost.com.au/jobs,https://auspost.com.au/about-us/about-our-site/responsible-disclosure,
+7747,https://blogspot.ro,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+7783,https://plex.tv,security@plex.tv,,,https://support.plex.tv/articles/reporting-security-issues/,
+7785,https://transip.eu,disclosure@nl.team.blue security@nl.team.blue,,,,
+7796,https://slb.com,mailto:security@slb.com ,2023-02-28t00:00:00.000z ,,,
+7813,https://grabcad.com,mailto:security@grabcad.com https://hackerone.com/grabcad,"wed, 1 jan 2025 00:00 +0300",https://blog.grabcad.com/jobs/,https://hackerone.com/grabcad,
+7825,https://screencast-o-matic.com,support@screencast-o-matic.com,2022-09-30t23:59:59+00:00,,,
+7830,https://opencollective.com,security@opencollective.com,,,https://github.com/opencollective/opencollective/blob/main/security.md,
+7843,https://webstaurantstore.com,security-reports@clarkinc.biz,,,,
+7903,https://uclouvain.be,mailto:ussi@uclouvain.be,2022-05-31t22:00:00.000z,,,
+7947,https://percona.com,security@percona.com / +44 1214 682 054,,security@percona.com,https://www.percona.com/terms-use,https://www.percona.com/blog
+7982,https://gemini.com,mailto:psirt@gemini.com,2024-01-01t04:59:00.000z,https://www.gemini.com/careers,https://hackerone.com/gemini_trust_co_vdp,
+7991,https://fau.de,https://www.rrze.fau.de/infocenter/kontakt-hilfe/sicherheitsvorfaelle/abuse/ https://www.rrze.fau.de/infocenter/kontakt-hilfe/sicherheitsvorfaelle/,2023-09-30t22:00:00.000z,,,
+8002,https://occrp.org,security@occrp.org,,,,
+8003,https://bundesbank.de,https://openbugbounty.org/bugbounty/babiel/,2023-06-23t12:00:00.000z,,,
+8082,https://adminer.org,mailto:jakub@vrana.cz,,,,
+8088,https://homeaway.com,respdisc@expedia.com,,https://lifeatexpedia.com/,https://www.expediagroup.com/about/privacy-data-handling-requirements/,
+8129,https://erau.edu,mailto:security@erau.edu,,,,
+8131,https://vbulletin.com,mailto:security_issues@internetbrands.com,2026-01-01t07:59:00.000z,,,
+8179,https://distrokid.com,mailto:security@distrokid.com,,,,
+8197,https://uni-marburg.de,mailto:security@uni-marburg.de,2022-11-01t11:00:00.000z,,,
+8201,https://arup.com,vulnerability@arup.com,,,https://www.arup.com/reporting-policy.pdf,
+8282,https://seomoz.org,inboundeng+cms@moz.com,,,https://moz.com/security-policy,https://moz.com/hall-of-fame
+8412,https://verizonmedia.com,mailto:security@yahooinc.com https://hackerone.com/yahoo,,https://www.yahooinc.com/careers/search.html?q=paranoids,https://hackerone.com/yahoo?view_policy=true,https://hackerone.com/yahoo/thanks
+8444,https://blogspot.co.nz,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+8479,https://atos.net,mailto:cert@atos.net,2022-10-22t22:00:00.000z,https://jobs.atos.net/,,
+8508,https://realvnc.com,mailto:psirt@realvnc.com,2023-04-01t11:00:00.000z,,,
+8525,https://canon-europe.com,product-security@canon-europe.com,,,https://www.canon-europe.com/support/vulnerability-disclosure-policy/,
+8535,https://redcross.org.uk,mailto:digitalsupport@redcross.org.uk mailto:kmcguire@redcross.org.uk,2022-09-30t00:00:00.000z,,,
+8545,https://rba.gov.au,cybersecurity@rba.gov.au,"sun, 31 dec 2024 00:00 +1000",https://careers.rba.gov.au,,
+8565,https://home.saxo,security@saxobank.com,,,https://www.home.saxo/legal/vulnerability-disclosure-policy/vulnerability-disclosure-policy,
+8589,https://transferwise.com,mailto:soc@wise.com https://wise.com/responsible-disclosure,,https://wise.jobs/,https://bugcrowd.com/wise,
+8635,https://hotwire.com,respdisc@expedia.com,,https://lifeatexpedia.com/,https://www.expediagroup.com/about/privacy-data-handling-requirements/,
+8642,https://blogspot.co.at,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+8644,https://seznam.cz,mailto:csirt@firma.seznam.cz,2030-06-30t21:59:00.000z,,,
+8698,https://utu.fi,mailto:security@utu.fi,2025-01-01t00:00:00+02:00,,,
+8742,https://otto.de,disclosure@otto.de,,https://www.otto.de/unternehmen/jobs/,,
+8763,https://bbc.in,security@bitly.com,,,,
+8793,https://lichess.org,mailto:contact@lichess.org,,,https://lichess.org/contact#help-security,
+8794,https://sports-reference.com,mailto:bugs_3@sports-reference.com,,,,
+8801,https://cox.com,mailto:securebug@cox.com,2022-12-31t17:00:00.000z,,https://www.cox.com/aboutus/policies/cox-security-responsible-disclosure-policy.html,
+8810,https://motorauthority.com,mailto:security_issues@internetbrands.com,2026-01-01t07:59:00.000z,,,
+8813,https://socialbakers.com,security@socialbakers.com,,,,
+8884,https://mail.com,mailto:report@bugbounty.mail.com,,https://www.mail.com/security-jobs,https://bugbounty.mail.com,
+8925,https://svoboda.org,mailto:abuse@rferl.org,,,https://www.rferl.org/.well-known/rferl_responsible_disclosure_policy.pdf,
+8987,https://huggingface.co,https://hackerone.com/hugging_face,2023-07-01t08:42:00.000z,https://huggingface.co/jobs,,
+8997,https://panic.com,mailto:security@panic.com,,,,
+9054,https://computerbild.de,mailto:security-incident.nmn@axelspringer.de,2022-12-30t23:00:00.000z,https://career.axelspringer.com/de/tech,,
+9119,https://vivaldi.com,https://vivaldi.com/bugreport/?type=security,2022-09-22t10:04:24+00:00,,https://vivaldi.com/security/,
+9229,https://mydomaine.com,mailto:security@dotdash.com,,,,
+9323,https://scot.nhs.uk,https://hackerone.com/d38cfce2-ebc5-4845-8ea0-89815b539a2e/embedded_submissions/new,,, https://www.scot.nhs.uk/vulnerability-disclosure-policy/,
+9324,https://qwant.com,https://yeswehack.com/programs/qwant ssi@qwant.com,,,,
+9328,https://trademe.co.nz,sitesecurity@trademe.co.nz,,,,
+9337,https://snafu.de,mailto:systemadministration@team.snafu.de,2025-12-31t22:59:00.000z,https://www.snafu.de/karriere/,,
+9343,https://tinkoff.ru,mailto:bug-hunters@tinkoff.ru https://bugbounty.ru/app/programs/tinkoff,,https://www.tinkoff.ru/career/it/?specialtyurl=informacionnaya-bezopasnost,https://bugbounty.ru/app/programs/tinkoff,
+9344,https://fanduel.com,security@fanduel.com,,,,
+9346,https://blogspot.fi,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+9379,https://kununu.com,mailto:security-reports@new-work.se,,https://www.xing.com/jobs/search?keywords=%22new%20work%20se%22%20security,https://www.xing.com/rfc-2350.txt,
+9401,https://streamlabs.com,https://www.logitech.com/security https://hackerone.com/logitech,2099-12-31t20:59:00.000z,,https://hackerone.com/logitech,
+9412,https://nltimes.nl,security@nltimes.nl,2022-12-31t22:59:00.000z,,,
+9421,https://blogspot.ie,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+9441,https://beyondtrust.com,mailto:secure@beyondtrust.com,2022-07-01t07:00:00.000z,,https://www.beyondtrust.com/disclosure,
+9524,https://giga.de,mailto:security@stroeermediabrands.de,,,,
+9530,https://infor.com,mailto:security@infor.com ,,,,
+9531,https://blogspot.tw,https://g.co/vulnz mailto:security@google.com,,https://g.co/securityprivacyengjobs,https://g.co/vrp,https://bughunters.google.com/
+9554,https://tv2.dk,mailto:security@tv2.dk,,,https://omtv2.tv2.dk/media/126365/tv_2_responsible_disclosure.pdf,
+9566,https://wapo.st,security@bitly.com,,,,
+9581,https://realself.com,security@realself.com,,,https://www.realself.com/security/ https://bugcrowd.com/realself,
+9589,https://3dnews.ru,https://hackerone.com/v3dnews,,,,
+9607,https://lolipop.jp,mailto:security@pepabo.com,,https://recruit.pepabo.com,https://pepabo.com/contact/vulnerability_reporting/,
+9634,https://eveonline.com,mailto:security@ccpgames.com,,,https://www.eveonline.com/article/responsible-disclosure-reporting-security-issues,
+9646,https://siue.edu,mailto:infosec@siue.eedu,,,https://www.siue.edu/policies/2d2.shtml,
+9691,https://statuspage.io,https://www.atlassian.com/trust/security/report-a-vulnerability mailto:security@atlassian.com,2022-12-06t00:00:00.000z,https://www.atlassian.com/company/careers/all-jobs?team=security,https://www.atlassian.com/trust/security/report-a-vulnerability,
+9756,https://tv2.no,security@tv2.no,,https://jobb.tv2.no/digital,,
+9768,https://total.com,https://vdp.totalenergies.com,2025-01-01t00:00:00.000z,https://www.careers.total.com,https://totalenergies.com/cert,
+9773,https://uva.es,mailto:soporte-web@uva.es,,,,
+9800,https://ionos.fr,mailto: security@ionos.com,2024-02-11t23:30:00.000z,https://jobs.ionos.de/,https://www.ionos.com/it-security,
+9828,https://peopleperhour.com,sre+security@peopleperhour.com,,,,
+9942,https://troyhunt.com,mailto:security@troyhunt.com https://twitter.com/troyhunt,,,,
